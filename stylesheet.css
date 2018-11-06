@@ -1,0 +1,25 @@
+.jumbotron{
+    text-align: center;
+    font-size: 25px;
+    background-color: rgba(47, 137, 185, 0.5);
+    border-style: double;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: navy;
+}
+body{
+    background-image: url("geometric-shape.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h2{
+    font-size: 20px;
+}
+p{
+    font-size: 30px;
+}
+#options{
+    border: turquoise;
+
+}
